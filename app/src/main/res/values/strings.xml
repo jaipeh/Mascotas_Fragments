@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="txtMascota">Chester</string>
+    <string name="countLikes">5</string>
+    <string name="txtMascotas">Mascotas</string>
+    <string name="txtFavoritos">Favoritos</string>
+
+    <string name="text_view_acercaDeEncabezado">Acerca de...</string>
+    <string name="text_view_acercaDeInformacion">Informacion del sistema</string>
+    <string name="text_view_acercaDeVersion">Version: 1.0</string>
+    <string name="text_view_acercaDeDesarrollador">Desarrollador: JaipehSystem</string>
+
+    <string name="text_input_nombre">Nombre:</string>
+    <string name="text_input_correo">Correo:</string>
+    <string name="text_input_mensaje">Mensaje:</string>
+    <string name="text_view_contactoTitulo">Contactanos!</string>
+    <string name="text_view_contactoMensaje">Envianos un correo y nos comunicaremos</string>
+    <string name="button_enviar_comentario">Enviar</string>
+
+
+</resources>
